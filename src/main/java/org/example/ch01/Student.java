@@ -1,4 +1,4 @@
-package org.example.class1;
+package org.example.ch01;
 
 public class Student {
     String name;

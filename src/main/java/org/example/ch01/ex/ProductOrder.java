@@ -1,4 +1,4 @@
-package org.example.class1.ex;
+package org.example.ch01.ex;
 
 public class ProductOrder {
     String productName;
