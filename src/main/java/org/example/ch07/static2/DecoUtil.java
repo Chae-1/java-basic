@@ -1,0 +1,7 @@
+package org.example.ch07.static2;
+
+public class DecoUtil {
+    public String deco(String str) {
+        return "*" + str + "*";
+    }
+}
